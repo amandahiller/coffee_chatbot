@@ -1,4 +1,3 @@
-# Define your functions
 def coffee_bot():
   print("Welcome to the cafe!")
   
@@ -49,5 +48,4 @@ def order_latte():
     print_message()
     return order_latte()
 
-# Call coffee_bot()!
 coffee_bot()
